@@ -1,0 +1,137 @@
+.pagina{
+    display:grid;
+    padding: 50px;
+    max-width: 845.91px;
+    font-family: 'Noto Sans', sans-serif;
+    border: 1.5px solid gray;
+    border-radius: 25px;
+    justify-self: center;
+    margin: auto;
+}
+
+.pagina1{
+    display:grid;
+    padding: 50px;
+    max-width: 473.83px;
+    font-family: 'Noto Sans', sans-serif;
+    border: 1.5px solid gray;
+    border-radius: 25px;
+    justify-self: center;
+    margin: auto;
+    margin-top: 12rem;
+}
+.titulo{
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+.formulario{
+    display: grid;
+    justify-items: center;
+    gap: 15px;
+    
+}
+input{
+    width: 100%;
+    padding: 10px;
+   border: 0;
+}
+button{
+    width: 100%;
+    background-color: #2F80ED;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #2F80ED;
+    color: white;
+}
+.email{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px gray solid;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.password{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px gray solid;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.imagenes{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+a{
+    color: #2F80ED;
+}
+
+.tex1{
+    display: flex;
+    justify-content: center;
+}
+.btn_log{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+}
+#icono{
+    color:#828282;
+}
+.editar{
+    display: flex;
+    justify-content: space-between;
+}
+.encabezado{
+    display:grid;
+    justify-content: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+.cerrar{
+    padding: 10px;
+    border: 1px solid #828282;
+    border-radius: 12px;
+    font-size: 16px;
+    color:#828282;
+}
+.l{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Noto Sans', sans-serif;
+    margin-top: 20px;
+    color:#828282;
+}
+.edit{
+    border: 1px solid #828282;
+    padding: 10px;
+    border-radius: 12px;
+    color: #828282;
+}
+.foto{
+    border-radius: 25px;
+}
+.save{
+    width: 82px;
+    background-color: #2F80ED;
+    color: white;
+    border-radius: 8px;
+}
+.back{
+    font-family: 'Noto Sans', sans-serif;
+}
+.atras{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 30rem;
+    font-size: 18px;
+}
+#flecha{
+    font-size: 18px;
+    color: #2F80ED;
+}
